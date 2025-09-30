@@ -16,6 +16,4 @@ A **Python & Streamlit app** to analyze your WhatsApp chat exports. Get insights
 
 ---
 
-## **Demo**
-https://whatsapp-chat-analyzer-2seskymk5kv2jkdfbdcwqs.streamlit.app/
----
+
